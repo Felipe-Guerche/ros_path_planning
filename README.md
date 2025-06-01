@@ -1,4 +1,4 @@
-# ROS Motion Planning
+# ROS Path Planning
 
 **Robot Motion planning** is a computational problem that involves finding a sequence of valid configurations to move the robot from the source to the destination. Generally, it includes **Path Searching** and **Trajectory Optimization**.
 
